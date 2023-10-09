@@ -4,6 +4,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelcardenasg23&show_icons=true&locale=en&layout=compact" alt="samuelcardenasg23" /></p>
 
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelcardenasg23&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="samuelcardenasg23" /></p>-->
+
 
 <!--
 **samuelcardenasg23/samuelcardenasg23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
