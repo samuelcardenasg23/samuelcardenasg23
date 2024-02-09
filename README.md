@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Samuel👋
 
-<p>Mechanical Engineer.</p>
+<p>Mechanical Engineer and Full-Stack Developer.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
