@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cascadia+code&pause=1000&color=000000&random=false&width=435&lines=Mechanical+Engineer;Full-Stack+Developer." alt="Typing SVG" /></a>
 
 ### <img src="./assets/hacker.gif" width="35" alt="About" /> **About**
-<p>Mechanical Engineer and Full-Stack Developer.</p>
+<p>Mechanical Engineer and Full-Stack Developer</p>
 
 ### <img src="./assets/code-element.gif" width="20" alt="Skills" />  **Skills**
 <!--<h3 align="left">Skills:</h3>-->
