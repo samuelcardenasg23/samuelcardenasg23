@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cascadia+code&weight=200&size=19&pause=1000&color=000000&random=false&width=435&lines=Mechanical+Engineer+%26+Software+Engineer" alt="Typing SVG" /></a>
 
 ### <img src="./assets/hacker.gif" width="35" alt="About" /> **About**
-<p>Mechanical Engineer & Software Engineer.</p>
+<p>Mechanical Engineer & Software Engineer, with experience in web development. Driven by an achievement-oriented mindset. High commitment and ability to be renewing my knowledge.</p>
 
 ### <img src="./assets/code-element.gif" width="20" alt="Skills" />  **Skills**
 <!--<h3 align="left">Skills:</h3>-->
@@ -16,6 +16,7 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="express" width="40" height="40"/></a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="40" height="40"/></a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="laravel" width="40" height="40"/></a> 
+  <a href="https://filamentphp.com/"><img src="https://filamentphp.com/favicon/favicon.ico?v=w1dBNxT7Wg" alt="filament" width="40" height="40"></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/></a>
