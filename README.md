@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cascadia+code&weight=200&size=19&pause=1000&color=000000&random=false&width=435&lines=Mechanical+Engineer+%26+Software+Engineer" alt="Typing SVG" /></a>
 
 ### <img src="./assets/hacker.gif" width="35" alt="About" /> **About**
-<p>Mechanical Engineer & Software Engineer, with experience in web development. Driven by an achievement-oriented mindset. High commitment and ability to be renewing my knowledge.</p>
+<p>Software Developer with 2 years of experience in web development, specializing in backend architecture, business logic, and API development. Skilled in building scalable and efficient B2B platforms, integrating automation, and optimizing workflows. Experienced in multiple technologies, with a strong background in PHP Laravel. Mechanical Engineering background strengthening analytical approach to complex software solutions.</p>
 
 ### <img src="./assets/code-element.gif" width="20" alt="Skills" />  **Skills**
 <!--<h3 align="left">Skills:</h3>-->
